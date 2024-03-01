@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+.HF1{
+    border: 2px solid yellow;
+    padding: 5%;
+    margin-right: 50%;
+    margin-top: 10%;
+    margin-left:10% ;
+    justify-content: center;
+}
+p{
+    font-size: x-large;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 3;
+}
+p:hover{
+    color: red;
+    cursor: pointer;
+}
