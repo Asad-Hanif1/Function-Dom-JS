@@ -146,9 +146,9 @@
 
 
 
-// var head = document.querySelector('.head');
-// var paragraph = document.querySelector("#para");
-// console.log(paragraph.innerHTML)
+// // var head = document.querySelector('.head');
+// // var paragraph = document.querySelector("#para");
+// // console.log(paragraph.innerHTML)
 
 // function changeText(){
 
@@ -160,3 +160,71 @@
 //         head.innerHTML = 'changed through js'
 //     }
 // }
+// var head = document.querySelector('.head');
+// var paragraph = document.querySelector("#para"):
+// console.log(paragraph.innerHTML)
+//  function changeText(){
+//     if(paragraph.innerHTML === 'change through js' && head.innerHTML === 'change through js'){
+//         paragraph.innerHTML = 'Function-Q1';
+//         head.innerHTML = 'changed through js'
+//     }
+//  }
+
+
+
+
+
+
+// // Example
+// var changed = 0;
+
+// function change(num) {
+//   return (num + 5) / 3;
+// }
+
+// changed = change(10);
+
+// // Setup
+// var processed = 0;
+
+// function processArg(num) {
+//   return (num + 3) / 5;
+// }
+
+// var changed = 0;
+
+// function change(num) {
+//   return (num + 5) / 3;
+// }
+
+// changed = change(10);
+
+// // Setup
+// var processed = 0;
+
+// function processArg(num) {
+//   return (num + 3) / 5;
+// }
+
+
+
+
+
+// var compliment = function () {
+//     "use strict";
+//     var compliments = [
+//     "Outstanding",
+//     "Well done",
+//     "Nice haircut",
+//     "Cool",
+//     "Awesome"
+//     ],
+//     random = Math.floor(Math.random() * 5);
+//     return compliments[random];
+//     };
+//     function saySomethingNice(somethingNice) {
+//     "use strict";
+//     return somethingNice;
+//     }
+//     var attaBoy = saySomethingNice(compliment);
+//     console.log(attaBoy());

@@ -14,7 +14,7 @@ body{
     margin-right: 50%;
     margin-top: 10%;
     margin-left:10% ;
-    justify-content: center;
+    justify-content: center;cursor: pointer;
 }
 p{
     font-size: x-large;
